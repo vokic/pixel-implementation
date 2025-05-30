@@ -21,25 +21,7 @@ Use the Chrome extension to visually confirm events are firing.
 
 ---
 
-## 2. Facebook Events Manager
-
-Use Facebook Events Manager to track live activity and event logs.
-
-![Events Manager Screenshot](https://i.imgur.com/dFj2yAY.png)
-
----
-
-## 3. Test Events Tool
-
-Use the **Test Events** tool inside Events Manager to simulate events in real time and verify:
-
-- Event firing  
-- Event parameters  
-- Matching custom conversions
-
----
-
-## 4. Browser Developer Tools
+## 2. Browser Developer Tools
 
 Open **DevTools > Network** tab and filter for requests like:
 
@@ -49,8 +31,25 @@ Open **DevTools > Network** tab and filter for requests like:
 
 Useful for inspecting real-time requests and response status.
 
+![Events Manager Screenshot](https://i.imgur.com/dFj2yAY.png)
+
 ---
 
+## 2. Test Events Tool
+
+Use the **Test Events** tool inside Events Manager to simulate events in real time and verify:
+
+- Event firing  
+- Event parameters  
+- Matching custom conversions
+
+---
+
+## 4. Facebook Events Manager
+
+Use Facebook Events Manager to track live activity and event logs.
+
+---
 ## 5. Facebook Analytics & Reporting
 
 Review reporting data to validate:
